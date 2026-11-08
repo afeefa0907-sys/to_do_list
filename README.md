@@ -16,17 +16,7 @@ A simple command-line to-do list program written in Python. You enter your tasks
 
 - Python 3.6 or higher (no external libraries needed)
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
-2. Run the program:
-   ```bash
-   python to_do.py
-   ```
 
 ## How It Works
 
@@ -65,13 +55,4 @@ GO FOR A WALK: False
 - User input and string methods
 - File handling with `open()` and `with`
 
-## Future Improvements
 
-- Load the saved list when the program starts
-- Add and remove tasks later
-- Save in JSON format
-- Add due dates
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
